@@ -23,5 +23,10 @@ There are 18 attributes in this dataset, each records a client information from 
 
 - Person 1: Pak In Chan.
 
+## Milestone 3
+
+File for Milestone 3 Task 1 : cd ../analysis/eda_v.2.ipynb
+File for Milestone 3 Task 3 : cd ../data/processed/dataset_wrangled.csv
+
 ## References
 Data source : Kaggle, https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets/metadata
