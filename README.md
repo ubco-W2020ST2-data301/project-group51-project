@@ -26,6 +26,7 @@ There are 18 attributes in this dataset, each records a client information from 
 ## Milestone 3
 
 File for Milestone 3 Task 1 : cd ../analysis/eda_v.2.ipynb
+<br>
 File for Milestone 3 Task 3 : cd ../data/processed/dataset_wrangled.csv
 
 ## References
