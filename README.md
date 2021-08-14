@@ -6,6 +6,16 @@
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
+## Milestone 3
+
+File for Milestone 3 Task 1 : cd ../analysis/eda_v.2.ipynb
+<br>
+File for Milestone 3 Task 3 : cd ../data/processed/dataset_wrangled.csv
+
+## Milestone 4
+
+Link to my Presentation Video for the project: [Click here](https://youtu.be/FYLmxKlfYl4).
+
 ## Describe your topic/interest in about 150-200 words
 
 For our project, we hope to carry out a view on which types of people, based on different attributes, will be more likely to choose a banking term deposit. This project would be an interesting one because in the approaching post-pandemic world, the globe is expecting a financial recession, so for us it could be important to look for different financing options, whether to secure financial stabilities or “blockbusting” opportunities. With that in mind, and add up that term deposits are usually considered as a safer financing option, our question would be to know which type of people would most likely be on term deposit, so that we as individuals will hopefully learn something from it and make our decision wisely.
@@ -23,11 +33,6 @@ There are 18 attributes in this dataset, each records a client information from 
 
 - Person 1: Pak In Chan.
 
-## Milestone 3
-
-File for Milestone 3 Task 1 : cd ../analysis/eda_v.2.ipynb
-<br>
-File for Milestone 3 Task 3 : cd ../data/processed/dataset_wrangled.csv
 
 ## References
 Data source : Kaggle, https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets/metadata
