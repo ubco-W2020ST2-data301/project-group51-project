@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Milestone 3
 
-File for Milestone 3 Task 1 : cd ../analysis/eda_v.2.ipynb
+File for Milestone 3 Task 1 : cd ../analysis/stanley_92477348/eda_v.2.ipynb
 <br>
 File for Milestone 3 Task 3 : cd ../data/processed/dataset_wrangled.csv
 
